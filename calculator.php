@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Pawan's best Calculator With User Input</title>
+    <title>Pawan's Calculator With User Input</title>
 </head>
 <body>
 <div class="box">
